@@ -1,9 +1,10 @@
 {
-  "version_code": 2,
-  "version_name": "1.1",
-  "download_url": "https://github.com/Ken56266325/Socialapp-releases/releases/download/v1.1/PRSocial_v1.1.apk",
-  "changelog": [""],
+  "version_code": 3,
+  "version_name": "1.2",
+  "download_url": "https://github.com/Ken56266325/Socialapp-releases/releases/download/v1.2/PRSocial_v1.2.apk",
+  "changelog": ["Fix installation mise a jour", "Suppression dialog permissions", "Fix login abonnement", "Detection reseau amelioree"],
   "history": [
+    {"version_name": "1.2", "date": "2025-05", "note": "Fix MAJ + permissions"},
     {"version_name": "1.1", "date": "2025-05", "note": "Fix login + reseau"},
     {"version_name": "1.0", "date": "2025-05", "note": ""}
   ]
