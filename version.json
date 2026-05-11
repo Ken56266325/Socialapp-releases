@@ -1,16 +1,22 @@
 {
-  "version_code": 1,
-  "version_name": "1.1.0",
-  "download_url": "https://github.com/Ken56266325/Socialapp-releases/releases/download/v1.1.0/PrSocial_V1.1.0.apk",
+  "version_code": 2,
+  "version_name": "1.2.0",
+  "download_url": "https://github.com/Ken56266325/Socialapp-releases/releases/download/v1.2.0/PrSocial_V1.2.0.apk",
   "changelog": [
-    "Première version"
+    "Date d'expiration affichée",
   ],
   "history": [
+    {
+      "version_name": "1.2.0",
+      "version_code": 2,
+      "date": "2026-05",
+      "note": "Améliorations abonnement dashboard"
+    },
     {
       "version_name": "1.1.0",
       "version_code": 1,
       "date": "2026-05",
-      "note": "Première version"
+      "note": "Seconde version"
     }
   ]
 }
